@@ -9,10 +9,10 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-AND gate turns on LED
+Combination of gates allow for 2 2-bit numbers to be added together, with the answer represented by LEDs to indicate 1 (on) or 0 (off) for the sum of the first digit, sum of the second digit, and the carry. 
 ## How to test
 
-Click Play
+Click play and turn on the switches to modify the numbers added and see the final result.
 ## External hardware
 
 None
